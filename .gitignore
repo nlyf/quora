@@ -1,0 +1,18 @@
+# model and data files
+*.csv
+*.xlsx
+*.xls
+*.html
+*.sql
+/data
+
+/
+### IPythonNotebook template
+# Temporary data
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/*/.ipynb_checkpoints/
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
