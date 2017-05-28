@@ -58,3 +58,4 @@ def mark_broken_question(path):
 if __name__ == '__main__':
 #    path = './train.csv'
 #    tagging_data(path)
+    mark_broken_question('./fichers_part_one.csv')
